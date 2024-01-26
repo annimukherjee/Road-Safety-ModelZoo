@@ -29,11 +29,11 @@ _fill_
 ## Steps to run Code
 - Clone the repository.
 ```
-git clone ...
+git clone https://github.com/annimukherjee/Road-Safety-ModelZoo/tree/main
 ```
 - Goto the cloned folder.
 ```
-cd ...
+cd 1_Pothole-Detection
 
 ```
 - Upgrade pip with the mentioned command below.
@@ -68,9 +68,7 @@ pip install -r reqs.txt
     `python predict.py model=y8best.pt source=0 show=True`
 
 
-download weight `y8best.pt`: 
-
-https://drive.google.com/drive/folders/1T1h2WH3_wrNb0foJuDw8w33Br_2kZjnS?usp=share_link
+download weight `y8best.pt`: https://drive.google.com/drive/folders/1T1h2WH3_wrNb0foJuDw8w33Br_2kZjnS?usp=share_link
 
 
 <br>
