@@ -75,16 +75,20 @@ download weight `y8best.pt`: https://drive.google.com/drive/folders/1T1h2WH3_wrN
 
 ## ⁠results
 
-**video demo**
+## ⁠Results
 
-https://github.com/annimukherjee/Road-Safety-ModelZoo/assets/85307430/e21f500a-db8b-464c-ab8c-d0643d109252
+**Video Demo**
 
+[https://github.com/annimukherjee/Road-Safety-ModelZoo/assets/85307430/e21f500a-db8b-464c-ab8c-d0643d109252](https://github.com/annimukherjee/Road-Safety-ModelZoo/assets/85307430/e21f500a-db8b-464c-ab8c-d0643d109252)
 
+<p align="center">
+  <img src="results-screenshots/screenshot-01.png" alt="Alt text" width="70%"/>
+</p>
+<p align="center">
+  <img src="results-screenshots/screenshot-02.png" alt="Alt text" width="70%"/>
+</p>
+<p align="center">
+  <img src="results-screenshots/screenshot-03.png" alt="Alt text" width="70%"/>
+</p>
 
-![Alt text](results-screenshots/screenshot-01.png)
-![Alt text](results-screenshots/screenshot-02.png)
-![Alt text](results-screenshots/screenshot-03.png)
-
-<br>
-<br>
 
