@@ -6,62 +6,66 @@
 
 _pls fill_
 
+---
+
 ### Model Details
 > ⁠⁠which model was used and technical details about the model
 
 *YOLO-V8.* (add more details)
+
+---
 
 ### Problem Statement
 > ⁠why the model is useful (i.e. what problem is it solving and how is it benefiting mankind)
 
 Helps to detect potholes
 
+---
+
 ### Model Pros...
 > ⁠why the particular model selected by us is great (high high accuracy, state of the art, low inference time)
 
 _fill_
 
-
-
-
+---
 
 
 ## Steps to run Code
-- Clone the repository.
+1. Clone the repository.
 ```
 git clone https://github.com/annimukherjee/Road-Safety-ModelZoo/tree/main
 ```
-- Goto the cloned folder.
+2. Goto the cloned folder.
 ```
 cd 1_Pothole-Detection
 
 ```
-- Upgrade pip with the mentioned command below.
+3. Upgrade pip with the mentioned command below.
 ```
 pip install --upgrade pip
 ```
 
-- Create a virual env:
+4. Create a virual env and activate it:
 
 ```
 conda create -n pothole-env python=3.8
 conda activate pothole-env
 ```
 
-- Install requirements with the mentioned command below.
+5. Install requirements with the mentioned command below.
 
 ```
 pip install -r reqs.txt
 ```
 
-- Run the code with the mentioned command below.
+6. Run the code with the mentioned command below.
 
  - Run for webcam: `python test.py`
 
 
 ---
 
-> can run the below however it's optional:
+> can run the below commands as well, however it's optional:
 
     `python predict.py model=y8best.pt source="demo.mp4" show=True`
 
@@ -72,8 +76,6 @@ download weight `y8best.pt`: https://drive.google.com/drive/folders/1T1h2WH3_wrN
 
 
 <br>
-
-## ⁠results
 
 ## ⁠Results
 
