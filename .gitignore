@@ -15,3 +15,7 @@
 4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/sample-dayClip6
 4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/sample-nightClip1
 4_Traffic-Light-Detection/input/trafficlightdetectionfasterrcnnweights/fasterrcnn_resnet50_fpn.pth
+.DS_Store
+4_Traffic-Light-Detection/.DS_Store
+4_Traffic-Light-Detection/input/.DS_Store
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/.DS_Store
