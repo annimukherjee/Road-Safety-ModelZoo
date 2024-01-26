@@ -1,0 +1,17 @@
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/Annotations
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/Annotations/Annotations
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/Annotations/Annotations/daySequence1
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/Annotations/Annotations/daySequence2
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/Annotations/Annotations/dayTrain
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/Annotations/Annotations/nightSequence1
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/Annotations/Annotations/nightSequence2
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/Annotations/Annotations/nightTrain
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/daySequence1
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/daySequence2
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/dayTrain
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/nightSequence1
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/nightSequence2
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/nightTrain
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/sample-dayClip6
+4_Traffic-Light-Detection/input/lisa-traffic-light-dataset/sample-nightClip1
+4_Traffic-Light-Detection/input/trafficlightdetectionfasterrcnnweights/fasterrcnn_resnet50_fpn.pth
