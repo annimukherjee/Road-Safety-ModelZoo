@@ -1,5 +1,9 @@
 # AI/ML Hackathon on Road Safety
 
+> this repo is now archived. It has shifted to
+
+[https://github.com/swatimishra02/Road-Safety-management](https://github.com/swatimishra02/Road-Safety-management)
+
 ## Problem Statement
 **Enhancing Road Safety with AI/ML for Traffic Flow Optimization.**
 
